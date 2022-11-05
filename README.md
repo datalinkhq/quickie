@@ -7,6 +7,12 @@
 Quickie is a database caching solution to cache data using redis, written in Go. 
 
 # Installation & Setup
+Follow the steps below to install and setup quickie. 
+## Prerequisites: 
+- [Go](https://go.dev)
+- [Gin](https://gin-gonic.com/)
+- [Redis](https://redis.io)
+
 Install the dependencies and set up the project by running:
 ```console
 go get && go run src/impl.go
