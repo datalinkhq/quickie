@@ -24,7 +24,7 @@ Next, set up a environment variable known as `SECRET` with the secret key requir
 
 # Usage
 
-**NOTE: To access any endpoints, an Authorization header with a secret needs to be provided, for more details on configuring this, check [Installation & Setup](https://github.com/datalinkhq/quickie#installation-setup).**
+**NOTE: To access any endpoints, an Authorization header with a secret needs to be provided, for more details on configuring this, check [Installation & Setup](https://github.com/datalinkhq/quickie#installation--setup).**
 <br>
 <br>
 This service exposes the following endpoints:
